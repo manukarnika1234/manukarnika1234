@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Manu Kumari </h1>
-<h3 align="center">Aspiring Technology Consultant | AI Engineer | Developer | Chemical Engineer</h3>
+<h3 align="center">Aspiring Technology Consultant | AI Engineer | Software Developer | Machine Learning</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
