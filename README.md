@@ -11,10 +11,10 @@
 
 ## 💫 About Me
 
-- 🌱 Currently learning **MERN Stack, AI, and Chemical Reaction Optimization**  
-- 👨‍💻 Working on **[Your Current Project]**  
-- 💡 Interested in **AI, Web Development, and Optimization Problems**  
-- 📫 Reach me at **your.email@example.com**
+- 🌱 Currently learning **MERN Stack, AI, and Machine Learning**  
+- 👨‍💻 Working on **Software Developer**  
+- 💡 Interested in **Software Developer, AI, Web Development, and Machine Learning**  
+- 📫 Reach me at **manukarnika56789@gmail.com**
 
 ---
 
@@ -24,6 +24,12 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=HTML&logoColor=F7DF1E)
+![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=CSS&logoColor=F7DF1E)
+
+
+
+
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -65,13 +71,13 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/manu-kumari-0ba924234/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="manukarnika56789@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
