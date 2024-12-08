@@ -58,11 +58,11 @@
 
 ## 🌟 Featured Projects
 
-- [**Project Name**](https://github.com/yourusername/project-repo)  
+- [**Early Detection Of Breast Cancer Using Machine Learning Techniques**](https://github.com/yourusername/project-repo)  
   🛠 Built with **[Tech Stack]**  
   📖 [Brief Description]  
 
-- [**Another Project**](https://github.com/yourusername/project-repo)  
+- [**Serilog with .NET 6.0**](https://github.com/yourusername/project-repo)  
   🛠 Built with **[Tech Stack]**  
   📖 [Brief Description]  
 
